@@ -102,12 +102,3 @@ Download the appropriate **ChromeDriver** version for your system [here](https:/
 - **chromedriver**: Place your ChromeDriver executable in the project folder or reference its path in the code.
 
 ---
-
-## Future Enhancements
-
-- **Unfollow Users**: Automate unfollowing users who don’t follow back after a specific period.
-- **Like/Comment on Posts**: Extend functionality to auto-like or comment on posts.
-- **Post Scheduling**: Automate post scheduling for increased engagement.
-- **Logging and Error Handling**: Implement robust logging mechanisms to handle errors and provide better debugging information.
-
----
